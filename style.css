@@ -1,0 +1,28 @@
+
+h1{
+    text-align: center;
+   color: black;
+   padding: 20px;
+   font-size: 36pt;
+   color: #07080b;
+    background-color: aqua;
+    
+}
+h2{
+    background-color: coral;
+text-align: center;
+    font-size: 50pt;
+    padding: 40pt;
+}
+h3{
+    font-size: 24pt;
+    background-color: rgb(103, 245, 47);
+}
+
+
+
+h1~p{
+    text-align: center;
+}
+
+
